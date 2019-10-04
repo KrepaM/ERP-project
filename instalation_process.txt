@@ -1,0 +1,42 @@
+Ważne!!!!
+1. Frontend może nie działać, ponieważ kompilator Angulara potrafi się zaciąć. Jeśli coś nie działa,
+a powinno, to może to być jedna z przyczyn
+2. Piszmy kod w UTF-8 to pomoże zachować porządek, szczególnie przy łączeniu się z cudzym kodem
+
+Ogólne informacje:
+	Krepam będzie pisał Javę w eclipse, frontend w Visual Studio Code
+	Fajny program do testowania API/endpointów to Postman
+	
+Ciekawe wtyczki do VSC:
+	
+	
+Instalacja npm:
+	https://www.guru99.com/download-install-node-js.html
+
+Wersja npm(ja mam 6.11.3):
+	npm -v
+	
+Aktualizacja npm:
+	npm install -g npm
+
+Instalacja Angulara:
+	npm install -g @angular/cli
+
+Wersja Angulara(ja mam 8.3.8):
+	ng version
+	
+Start serwera/kompilatora Angulara(trzeba mieć otwartą konsolę, aby działał frontend):
+	ng serve --open 
+	
+Instalacja Postman:
+	https://www.getpostman.com/downloads/
+	
+Ustawienie kodowania UTF-8 w eclipse:
+	Klikamy prawym na nasz projekt w oknie Project Explorer->Properties->Resource->Text file encoding
+	Klikamy na serwer Run configurations->Common->Encoding
+	
+Instalcja Tomcat Server:
+	1. https://tomcat.apache.org/download-90.cgi
+	2.  wersja 64-bit Windows zip 
+	3. wypakowywujemy do dowolnego miesjca
+	4. Dodajemy server w Eclipse
