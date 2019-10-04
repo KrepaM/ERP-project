@@ -8,6 +8,12 @@ Ogólne informacje:
 	Fajny program do testowania API/endpointów to Postman
 	
 Ciekawe wtyczki do VSC:
+	Bracket Pair Colorizer
+	indent-rainbow
+	Prettier
+	TSLint
+	Visual Studio IntelliCode
+	GitLens
 	
 	
 Instalacja npm:
